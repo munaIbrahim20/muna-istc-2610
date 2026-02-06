@@ -1,1 +1,2 @@
 This is the text I have on my 2nd file.
+New line added in gitHub
